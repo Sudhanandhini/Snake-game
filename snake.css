@@ -4,7 +4,7 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     font-size: larger;
-    background-image: url(./images/forest4.webp);
+    background: url(./images/forest4.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
